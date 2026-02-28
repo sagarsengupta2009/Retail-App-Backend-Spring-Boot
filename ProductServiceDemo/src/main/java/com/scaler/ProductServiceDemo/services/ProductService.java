@@ -1,5 +1,6 @@
 package com.scaler.ProductServiceDemo.services;
 
+import com.scaler.ProductServiceDemo.exceptions.ProductNotFoundException;
 import com.scaler.ProductServiceDemo.models.Product;
 
 import java.util.List;
